@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans,
+
+I'm Tom, with the intention of working from home one day soon.
